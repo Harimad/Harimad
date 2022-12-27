@@ -4,7 +4,7 @@
 #### I'm Tim from South Korea!
 #### I am a growing pre *front-end developer*!
 
-<a href="https://velog.io/@harimad/">
+<a href="https://velog.io/@harimad/" target="_blank">
   <img src='https://img.shields.io/static/v1?label=BLOG&message=VELOG!&color=91ede4'></img>
 </a>
 
