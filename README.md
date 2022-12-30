@@ -1,12 +1,15 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harimad%20!&fontSize=60&fontAlign=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harimad%20&fontSize=60&fontAlign=80" />
   <h1> <i>Hello World!</i></h1>
   <h4> I'm Tim from South Korea!</h4>
-  <h4> I am a growing pre *front-end developer*!</h4>
+  <h4> I am a growing pre Front-end developer!</h4>
 
 <a href="https://velog.io/@harimad/" target="_blank">
-  <img src='https://img.shields.io/static/v1?label=BLOG&message=VELOG!&color=91ede4'></img>
+  <img src='https://img.shields.io/badge/Velog-2cb58a?style=for-the-badge&logo=velog&logoColor=white'></img>
+</a>
+<a href="mailto:lees68481@gmail.com">
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></img>
 </a>
 
 <br>
