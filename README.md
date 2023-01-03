@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harimad%20&fontSize=60&fontAlign=80" />
-  <h1> <i>Hello World!</i></h1>
+  <h1> ✋<i>Hello World!</i></h1>
   <h4> I'm Tim from South Korea!</h4>
   <h4> I am a growing pre Front-end developer!</h4>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-<h1>Skills</h1>
+<h1>🛠Skills</h1>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,6 +31,13 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+<h1>🧗‍♂️I'm learning</h1>
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harimad&layout=compact&theme=highcontrast)
 
